@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761922172688,
+      "tag": "0000_light_bloodscream",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1761928247323,
+      "tag": "0001_equal_firestar",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1762401038415,
+      "tag": "0002_shallow_retro_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1762402377809,
+      "tag": "0003_clammy_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1762407606165,
+      "tag": "0004_loving_valkyrie",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1762408113069,
+      "tag": "0005_cold_leopardon",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1762578253454,
+      "tag": "0006_mysterious_husk",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1762858956852,
+      "tag": "0007_productive_iceman",
+      "breakpoints": true
+    }
+  ]
+}
